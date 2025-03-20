@@ -6947,7 +6947,11 @@ Transform:
   m_LocalScale: {x: 2.4999998, y: 0.5, z: 6}
   m_ConstrainProportionsScale: 0
   m_Children: []
+<<<<<<< Updated upstream
   m_Father: {fileID: 1876894406}
+=======
+  m_Father: {fileID: 0}
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1593530321
 GameObject:
@@ -10152,6 +10156,101 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 705507995}
+<<<<<<< Updated upstream
   - {fileID: 1876894406}
   - {fileID: 1970739360}
   - {fileID: 326457508}
+=======
+  - {fileID: 1831644002}
+  - {fileID: 547232629}
+  - {fileID: 150908176}
+  - {fileID: 271999128}
+  - {fileID: 2088984286}
+  - {fileID: 1717034533}
+  - {fileID: 1937345762}
+  - {fileID: 1794312369}
+  - {fileID: 1889356391}
+  - {fileID: 390094715}
+  - {fileID: 747025067}
+  - {fileID: 108232953}
+  - {fileID: 1645262149}
+  - {fileID: 7986820}
+  - {fileID: 1562577886}
+  - {fileID: 1593530325}
+  - {fileID: 201890715}
+  - {fileID: 424324389}
+  - {fileID: 2118525229}
+  - {fileID: 875008493}
+  - {fileID: 43461961}
+  - {fileID: 1861750898}
+  - {fileID: 582428422}
+  - {fileID: 2074630326}
+  - {fileID: 2054754542}
+  - {fileID: 1532167998}
+  - {fileID: 225768805}
+  - {fileID: 1802628828}
+  - {fileID: 366913341}
+  - {fileID: 83975603}
+  - {fileID: 298775990}
+  - {fileID: 1183255252}
+  - {fileID: 220441991}
+  - {fileID: 1867726206}
+  - {fileID: 514111090}
+  - {fileID: 1459838990}
+  - {fileID: 190373424}
+  - {fileID: 1919975122}
+  - {fileID: 368804538}
+  - {fileID: 2089025641}
+  - {fileID: 652998471}
+  - {fileID: 921317437}
+  - {fileID: 1265510269}
+  - {fileID: 2108999267}
+  - {fileID: 1686492623}
+  - {fileID: 2030899872}
+  - {fileID: 130987890}
+  - {fileID: 1097979452}
+  - {fileID: 1598183867}
+  - {fileID: 286811322}
+  - {fileID: 854748993}
+  - {fileID: 437377369}
+  - {fileID: 1719584601}
+  - {fileID: 1989423455}
+  - {fileID: 973601617}
+  - {fileID: 1671334197}
+  - {fileID: 918170313}
+  - {fileID: 793299916}
+  - {fileID: 1606463169}
+  - {fileID: 240374367}
+  - {fileID: 533780335}
+  - {fileID: 311189135}
+  - {fileID: 75147031}
+  - {fileID: 313549922}
+  - {fileID: 1913178188}
+  - {fileID: 226995378}
+  - {fileID: 960926463}
+  - {fileID: 1898768786}
+  - {fileID: 397426074}
+  - {fileID: 1853404341}
+  - {fileID: 534445851}
+  - {fileID: 597212230}
+  - {fileID: 660327761}
+  - {fileID: 403520474}
+  - {fileID: 1165553047}
+  - {fileID: 705618219}
+  - {fileID: 1172608064}
+  - {fileID: 1774017740}
+  - {fileID: 1334481483}
+  - {fileID: 517880041}
+  - {fileID: 2116462898}
+  - {fileID: 146010842}
+  - {fileID: 1423378375}
+  - {fileID: 978738576}
+  - {fileID: 979997003}
+  - {fileID: 787628451}
+  - {fileID: 752157274}
+  - {fileID: 1283594076}
+  - {fileID: 976919211}
+  - {fileID: 1744076956}
+  - {fileID: 580945468}
+  - {fileID: 1312893979}
+>>>>>>> Stashed changes
